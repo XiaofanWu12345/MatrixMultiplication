@@ -1,0 +1,4 @@
+The output of question 6's matrix_test is written to q6_out.txt
+The Matlab script to test the multiplication is q6.m
+And the output from the Matlab script is documented in q6.mat
+The graph and my explannation for question 8 is in q8_out.xlsx
